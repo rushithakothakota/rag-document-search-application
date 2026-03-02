@@ -11,8 +11,8 @@ Easy UI: A clean chat interface built with Streamlit.
 
 ## Tech Stack
 
-Language: Python
-Framework: LangChain
-Model: Google Gemini (Generative AI)
-Vector DB: FAISS
+Language: Python,
+Framework: LangChain,
+Model: Google Gemini (Generative AI),
+Vector DB: FAISS,
 Interface: Streamlit
